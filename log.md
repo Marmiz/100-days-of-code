@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 02, 2017
+### Day 0: January 02 2017, Monday
 
 **Today's Progress**: Forked this repo, created and committed the React - Flux starting kit
 files that I have created the past days.
@@ -11,15 +11,14 @@ files that I have created the past days.
 **Link to work:** [React - Flux starting kit](https://github.com/Marmiz/react-flux-starting-kit)
 
 
-<!-- ### Day 1: June 27, Monday
+### Day 1: January 03 2017, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: After building some component I realized some of my React pakages were deprecated thus throwing me errors. Spent 1 hour fixing and updating.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Next time read ALL the docs instead of a single blog page on "how to get started"
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link(s) to work:** [React - Flux starting kit](https://github.com/Marmiz/react-flux-starting-kit)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
