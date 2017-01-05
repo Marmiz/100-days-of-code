@@ -28,3 +28,13 @@ files that I have created the past days.
 **Thoughts:** coding in ES5, ES6 is the very next priority
 
 **Link(s) to work:** Coming Soon on Github
+
+
+
+### Day 3: January 05 2017, Thursday
+
+**Today's Progress:** Props, states and a mock API for my 3rd day in React.
+
+**Thoughts:** Pretty slow day today, felt like I could have achieved more!
+
+**Link(s) to work:** Coming Soon on Github
