@@ -38,3 +38,12 @@ files that I have created the past days.
 **Thoughts:** Pretty slow day today, felt like I could have achieved more!
 
 **Link(s) to work:** Coming Soon on Github
+
+
+### Day 4: January 06 2017, Friday
+
+**Today's Progress:** Displaying some API data via React and passing the props to its childs .
+
+**Thoughts:** Tired from the work week, but managed to pull it off!
+
+**Link(s) to work:** Coming Soon on Github
