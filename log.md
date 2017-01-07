@@ -47,3 +47,13 @@ files that I have created the past days.
 **Thoughts:** Tired from the work week, but managed to pull it off!
 
 **Link(s) to work:** Coming Soon on Github
+
+
+
+### Day 5: January 07 2017, Saturday
+
+**Today's Progress:** Finally starting some game dev with phaser. Today setting up the dev environment and copying the examples
+
+**Thoughts:** Some community examples talks about Webpack and Gulp/Grunt. I certnaly need to practice those!
+
+**Link(s) to work:** Coming Soon on Github
