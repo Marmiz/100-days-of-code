@@ -57,3 +57,12 @@ files that I have created the past days.
 **Thoughts:** Some community examples talks about Webpack and Gulp/Grunt. I certnaly need to practice those!
 
 **Link(s) to work:** Coming Soon on Github
+
+
+### Day 6: January 08 2017, Sunday
+
+**Today's Progress:** Followed along with the doc examples today I have created some `Game.state()`; finished at the Preload. Next step: MainMenu and actual Gamaplay.
+
+**Thoughts:** Wrapped my head around states and loading pahases.
+
+**Link(s) to work:** Coming Soon on Github
