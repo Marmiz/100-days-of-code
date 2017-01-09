@@ -27,7 +27,7 @@ files that I have created the past days.
 
 **Thoughts:** coding in ES5, ES6 is the very next priority
 
-**Link(s) to work:** Coming Soon on Github
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
 
 
 
@@ -37,7 +37,7 @@ files that I have created the past days.
 
 **Thoughts:** Pretty slow day today, felt like I could have achieved more!
 
-**Link(s) to work:** Coming Soon on Github
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
 
 
 ### Day 4: January 06 2017, Friday
@@ -46,7 +46,7 @@ files that I have created the past days.
 
 **Thoughts:** Tired from the work week, but managed to pull it off!
 
-**Link(s) to work:** Coming Soon on Github
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
 
 
 
@@ -66,3 +66,12 @@ files that I have created the past days.
 **Thoughts:** Wrapped my head around states and loading pahases.
 
 **Link(s) to work:** Coming Soon on Github
+
+
+### Day 7: January 09 2017, Monday
+
+**Today's Progress:** Implemented and debugged React routing with React-Routing. Also finally on Github - Update links
+
+**Thoughts:** *tiiiiired* but happy :)
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
