@@ -75,3 +75,12 @@ files that I have created the past days.
 **Thoughts:** *tiiiiired* but happy :)
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 8: January 10 2017, Tuesday
+
+**Today's Progress:** keep on working on my routing and link app. Found a problem in front-end routing and managed to solved it in the back-end.
+
+**Thoughts:** maybe I'm not that bad in back-ending after all :)
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
