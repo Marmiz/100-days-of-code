@@ -85,10 +85,12 @@ files that I have created the past days.
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
 
----
-###### **Rest day 1 : January 11 2017, Wednesday**
+-----
+
+###### Rest day 1 : January 11 2017, Wednesday
 
 **Reasons:** Burnt out: stayed out with friends and had a good time :)
+
 ---
 
 ### Day 9: January 12 2017, Thursday
@@ -96,4 +98,15 @@ files that I have created the past days.
 **Today's Progress:** keep working on client side routing and adding a 404
 
 **Thoughts:** Need to look at a back end way to handle this as well
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+
+### Day 10: January 13 2017, Friday
+
+**Today's Progress:** Adding new components in React: manageAuthor.js
+
+**Thoughts:** Almost gave up for today, but then I found the strength to start and kept from there.
+
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
