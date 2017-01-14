@@ -110,3 +110,12 @@ files that I have created the past days.
 **Thoughts:** Almost gave up for today, but then I found the strength to start and kept from there.
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 11: January 14 2017, Saturday
+
+**Today's Progress:** Weekend means Gamedev with Phaser. Working on mainmenues tile, text and animations. Tomorrow: gameplay!
+
+**Thoughts:** Start wrapping my head around this :)
+
+**Link(s) to work:** *coming soon on Github*
