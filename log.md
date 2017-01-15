@@ -119,3 +119,12 @@ files that I have created the past days.
 **Thoughts:** Start wrapping my head around this :)
 
 **Link(s) to work:** *coming soon on Github*
+
+
+### Day 12: January 15 2017, Sunday
+
+**Today's Progress:** Still working on gamedev. Added the main player sprite and animated it to move on the screen.
+
+**Thoughts:** Next step make it follow the spacebar. Then asteroids!
+
+**Link(s) to work:** *coming soon on Github*
