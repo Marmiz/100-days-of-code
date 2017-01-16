@@ -128,3 +128,12 @@ files that I have created the past days.
 **Thoughts:** Next step make it follow the spacebar. Then asteroids!
 
 **Link(s) to work:** *coming soon on Github*
+
+
+### Day 13: January 16 2017, Monday
+
+**Today's Progress:** Change handler via status and props on a React form
+
+**Thoughts:** Really hard wrapping my head around this. Need practice
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
