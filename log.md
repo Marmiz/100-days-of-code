@@ -137,3 +137,12 @@ files that I have created the past days.
 **Thoughts:** Really hard wrapping my head around this. Need practice
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 14: January 17 2017, Tuesday
+
+**Today's Progress:** Implemented a single input component to reuse across the map
+
+**Thoughts:** Practice, practice, practice!
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
