@@ -146,3 +146,13 @@ files that I have created the past days.
 **Thoughts:** Practice, practice, practice!
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+
+### Day 15: January 18 2017, Wednesday
+
+**Today's Progress:** Programmatic redirect and fixed linkes in routes.js
+
+**Thoughts:** Long day, we may start using React @ work tomorrow.I almost bailed it today since I came home late, but then remebered the quote on not rationilize yourself out and keep working.
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
