@@ -156,3 +156,12 @@ files that I have created the past days.
 **Thoughts:** Long day, we may start using React @ work tomorrow.I almost bailed it today since I came home late, but then remebered the quote on not rationilize yourself out and keep working.
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 16: January 19 2017, Thursday
+
+**Today's Progress:** Form validation and warning when leaving the page.
+
+**Thoughts:** Long day, glad I started coding instead of taking time off. Once starting is easy to continue.
+
+**Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
