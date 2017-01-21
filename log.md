@@ -165,3 +165,12 @@ files that I have created the past days.
 **Thoughts:** Long day, glad I started coding instead of taking time off. Once starting is easy to continue.
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+-----
+
+###### Rest day 2 : January 20 2017, Friday
+
+**Reasons:** Long and stressfould day at work. Finished late, had dinner out and came back home and chilled a little bit before falling asleep
+
+---
