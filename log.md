@@ -174,3 +174,12 @@ files that I have created the past days.
 **Reasons:** Long and stressfould day at work. Finished late, had dinner out and came back home and chilled a little bit before falling asleep
 
 ---
+
+
+### Day 17: January 21 2017, Saturday
+
+**Today's Progress:** Started playing around with Vue.js since I'll use it in the office.
+
+**Thoughts:** Having fun, baby step for now!
+
+**Link(s) to work:** Soon to be some Vue projects!
