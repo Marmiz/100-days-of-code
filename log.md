@@ -183,3 +183,12 @@ files that I have created the past days.
 **Thoughts:** Having fun, baby step for now!
 
 **Link(s) to work:** Soon to be some Vue projects!
+
+
+### Day 18: January 22 2017, Sunday
+
+**Today's Progress:** Finally managed to update the list dynamically based on user selected option.
+
+**Thoughts:** Vue seems a fun and powerfoul tool!
+
+**Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
