@@ -192,3 +192,12 @@ files that I have created the past days.
 **Thoughts:** Vue seems a fun and powerfoul tool!
 
 **Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
+
+
+### Day 19: January 23 2017, Monday
+
+**Today's Progress:** Inputs components that change the parent value dynamically.
+
+**Thoughts:** Once figured is simple... but man!!
+
+**Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
