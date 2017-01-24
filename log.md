@@ -201,3 +201,12 @@ files that I have created the past days.
 **Thoughts:** Once figured is simple... but man!!
 
 **Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
+
+
+### Day 20: January 24 2017, Tuesday
+
+**Today's Progress:** Button that display a modal in Vue
+
+**Thoughts:** Discovered a new CSS library called [Bulma](http://bulma.io/). Will look into this.
+
+**Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
