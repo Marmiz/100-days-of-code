@@ -210,3 +210,12 @@ files that I have created the past days.
 **Thoughts:** Discovered a new CSS library called [Bulma](http://bulma.io/). Will look into this.
 
 **Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
+
+
+### Day 22: January 25 2017, Wednesday
+
+**Today's Progress:** Navigation made with Vue.js
+
+**Thoughts:** Seems overcomplicated, but still using lib as Bootstrap means lots of JS made for us. Here's I'm doing my own.
+
+**Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)!
