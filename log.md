@@ -228,3 +228,27 @@ files that I have created the past days.
 **Thoughts:** Brain Fried. Call for help.
 
 **Link(s) to work:** [React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+-----
+
+###### Rest day 3 : January 27 2017, Friday
+
+**Reasons:** Long and stressfoul *week* at work.
+We decided to have a drink with the coworkers. Went home pretty late and chilled.
+
+
+
+###### Rest day 4 : January 28 2017, Saturday
+
+**Reasons:** Didn't felt like using the pc again. Went on the beach to chill, then out for dinner :)
+
+---
+
+### Day 24: January 29 2017, Sunday
+
+**Today's Progress:** More game dev, added random generated astheroids and movement control with keyboard.
+
+**Thoughts:** Some minor twerks to astheroids movement but I'm happy to see some progress.
+
+**Link(s) to work:** *soon<sup>tm</sup> on github*
