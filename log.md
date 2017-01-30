@@ -252,3 +252,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Some minor twerks to astheroids movement but I'm happy to see some progress.
 
 **Link(s) to work:** *soon<sup>tm</sup> on github*
+
+
+### Day 25: January 30 2017, Monday
+
+**Today's Progress:** Playing around with dynamic class binding in Vue.js
+
+**Thoughts:** I'm starting to feel this library.
+
+**Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)
