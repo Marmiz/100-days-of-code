@@ -261,3 +261,13 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** I'm starting to feel this library.
 
 **Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)
+
+
+
+### Day 26: January 31 2017, Tuesday
+
+**Today's Progress:** Finally binding class to checkboxes and radio
+
+**Thoughts:** Thanks @crswll from Vue Gitter chat for helping me out with the `indexOf` solution
+
+**Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)
