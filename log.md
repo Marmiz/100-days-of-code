@@ -271,3 +271,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Thanks @crswll from Vue Gitter chat for helping me out with the `indexOf` solution
 
 **Link(s) to work:** [Vue Playground](https://github.com/Marmiz/Vue-Playground)
+
+
+### Day 27: February 1 2017, Wednesday
+
+**Today's Progress:** Brain fried; chilled by doing some freeCodeCamp's challenges on ES6
+
+**Thoughts:** At least work is getting better :P
+
+**Link(s) to work:** https://beta.freecodecamp.com/
