@@ -280,3 +280,19 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** At least work is getting better :P
 
 **Link(s) to work:** https://beta.freecodecamp.com/
+
+---
+
+###### Rest day 5 : February 2 2017, Thursday
+
+**Reasons:** Tired. Didn't had access to my pc so I took advantage of it for a day off :)
+
+---
+
+### Day 28: February 3 2017, Friday
+
+**Today's Progress:** Flux dispatcher, and actions.. more to come!
+
+**Thoughts:** Getting the hang of Vue, some focus on React as well.
+
+**Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
