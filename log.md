@@ -296,3 +296,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Getting the hang of Vue, some focus on React as well.
 
 **Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 29: February 4 2017, Saturday
+
+**Today's Progress:** Initial commit to Flux stores.
+
+**Thoughts:** Everything makes more sense since the extra practice with Vue.js
+
+**Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
