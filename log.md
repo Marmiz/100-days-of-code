@@ -305,3 +305,21 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Everything makes more sense since the extra practice with Vue.js
 
 **Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+---
+
+###### Rest day 6 : February 5 2017, Sunday
+
+**Reasons:** Ari needed the laptop for work. No coding for me in the evening, so I'd work on my sleep :sleeping:
+
+---
+
+
+### Day 30: February 6 2017, Monday
+
+**Today's Progress:** Finally made working the add-author feature and updating an existing one.
+
+**Thoughts:** For the next project, React or Vue?
+
+**Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
