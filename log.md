@@ -323,3 +323,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** For the next project, React or Vue?
 
 **Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 31: February 7 2017, Tuesday
+
+**Today's Progress:** Added the delete author functionailty.
+
+**Thoughts:** Now some FCC React projects next.
+
+**Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
