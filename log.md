@@ -332,3 +332,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Now some FCC React projects next.
 
 **Link(s) to work:** React Admin](https://github.com/Marmiz/React-Admin-Page)
+
+
+### Day 32: February 8 2017, Wednesday
+
+**Today's Progress:** Set up a React single page app for the FCC markdown previewer
+
+**Thoughts:** Fear of getting confused between React and Vue.
+
+**Link(s) to work:** coming soon<sup>tm</sup>
