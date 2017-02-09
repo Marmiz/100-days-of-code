@@ -341,3 +341,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Fear of getting confused between React and Vue.
 
 **Link(s) to work:** coming soon<sup>tm</sup>
+
+
+### Day 33: February 9 2017, Thursday
+
+**Today's Progress:** Markdown working!
+
+**Thoughts:** Confusing between the two lib; lots of reading.
+
+**Link(s) to work:** coming soon<sup>tm</sup>
