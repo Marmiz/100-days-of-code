@@ -350,3 +350,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Confusing between the two lib; lots of reading.
 
 **Link(s) to work:** coming soon<sup>tm</sup>
+
+
+### Day 34: February 10 2017, Friday
+
+**Today's Progress:** Styling completed!
+
+**Thoughts:** Pushing the repo tomorrow to try Github pages or some other tool :)
+
+**Link(s) to work:** coming soon<sup>tm</sup>
