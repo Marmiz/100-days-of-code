@@ -359,3 +359,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Pushing the repo tomorrow to try Github pages or some other tool :)
 
 **Link(s) to work:** coming soon<sup>tm</sup>
+
+
+### Day 35: February 11 2017, Saturday
+
+**Today's Progress:** Deployed the markdown on Surge and Github.
+
+**Thoughts:** It's always nice to see a work go live in the real world.
+
+**Link(s) to work:** [live demo on surge](http://markdown-previewer.surge.sh) || [Github repo](https://github.com/Marmiz/markdown-previewer)
