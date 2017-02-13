@@ -368,3 +368,22 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** It's always nice to see a work go live in the real world.
 
 **Link(s) to work:** [live demo on surge](http://markdown-previewer.surge.sh) || [Github repo](https://github.com/Marmiz/markdown-previewer)
+
+
+
+### Day 36: February 12 2017, Sunday
+
+**Today's Progress:** Ditched into Redux. I may not need it for now.
+
+**Thoughts:** It gave me some inspiration for my Vue app at work.
+
+**Link(s) to work:** *nothing to show here*
+
+
+### Day 37: February 13 2017, Monday
+
+**Today's Progress:** Started the leaderboard App. So far I have the structure and some data rendered!
+
+**Thoughts:** Understending the logic :)
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
