@@ -387,3 +387,13 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Understending the logic :)
 
 **Link(s) to work:** soon<sup>tm</sup> on Github.
+
+
+
+### Day 38: February 14 2017, Tuesday
+
+**Today's Progress:** The table is rendered! Next to come is filtering.
+
+**Thoughts:** Feels nice and easy, but still gives great satisfaction in doing it by myself.
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
