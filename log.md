@@ -397,3 +397,28 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Feels nice and easy, but still gives great satisfaction in doing it by myself.
 
 **Link(s) to work:** soon<sup>tm</sup> on Github.
+
+---
+
+###### Rest day 6 to 9 : February 15 to 18 2017, Wednesday to Sunday
+
+**Reasons:** Had to travel to Malaysia for work. It was a tireing trip but at least I took a break from my pc.
+
+---
+
+### Day 39: February 19 2017, Sunday
+
+**Today's Progress:** Filtering according to user selection on my leaderboard app.
+
+**Thoughts:** Vue seems easier on this regards.
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
+
+
+### Day 40: February 20 2017, Monday
+
+**Today's Progress:** Styling has been made, tomorrow deployment!
+
+**Thoughts:** Again, vue seems easier on class binding.
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
