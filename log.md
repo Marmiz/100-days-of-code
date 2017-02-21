@@ -422,3 +422,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Again, vue seems easier on class binding.
 
 **Link(s) to work:** soon<sup>tm</sup> on Github.
+
+
+### Day 41: February 21 2017, Tuesday
+
+**Today's Progress:** MAnaged to deply it, this time on github page.
+
+**Thoughts:** Happy to have owrked on it despite the training and Martino's farewell dinner. Now it's time to rest for tomorrow.
+
+**Link(s) to work:** [Github Page](https://marmiz.github.io/camper-leaderboard/)
