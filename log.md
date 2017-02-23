@@ -431,3 +431,21 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Happy to have owrked on it despite the training and Martino's farewell dinner. Now it's time to rest for tomorrow.
 
 **Link(s) to work:** [Github Page](https://marmiz.github.io/camper-leaderboard/)
+
+
+### Day 42: February 22 2017, Wednesday
+
+**Today's Progress:** Gathered and started a new project: a full stack react-redux voting app.
+
+**Thoughts:** Happy do do full-stacking.
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
+
+
+### Day 43: February 23 2017, Thursday
+
+**Today's Progress:** Started by writing my first test in Jest to test Immutability.
+
+**Thoughts:** Test, feels professional man!
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
