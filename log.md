@@ -449,3 +449,20 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Test, feels professional man!
 
 **Link(s) to work:** soon<sup>tm</sup> on Github.
+
+
+---
+
+###### Rest day 9 - 10: February 24 & 25 2017, Friday - Saturday
+
+**Reasons:**  No real reason, just kind of lazy and wanted to do something else.
+
+---
+
+### Day 44: February 26 2017, Sunday
+
+**Today's Progress:** Tested core functionality of adding data.
+
+**Thoughts:** Test, like I know what I'm doing, right?
+
+**Link(s) to work:** soon<sup>tm</sup> on Github.
