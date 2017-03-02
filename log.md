@@ -451,13 +451,13 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Link(s) to work:** soon<sup>tm</sup> on Github.
 
 
----
+-----
 
 ###### Rest day 9 - 10: February 24 & 25 2017, Friday - Saturday
 
 **Reasons:**  No real reason, just kind of lazy and wanted to do something else.
 
----
+-----
 
 ### Day 44: February 26 2017, Sunday
 
@@ -466,3 +466,20 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Test, like I know what I'm doing, right?
 
 **Link(s) to work:** soon<sup>tm</sup> on Github.
+
+
+### Day 45: February 27 2017, Monday
+
+**Today's Progress:** Start working on a new hint button functionality for fcc.
+
+**Thoughts:** Have I started someting bigger than me?
+
+**Link(s) to work:** soon<sup>tm</sup> open-sourced.
+
+-----
+
+###### Rest day 11 - 12: February 28 & March 1 2017, Tuesday - Wednesday
+
+**Reasons:**  Sick! :cry:
+
+-----
