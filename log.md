@@ -483,3 +483,20 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Reasons:**  Sick! :cry:
 
 -----
+
+### Day 46: March 02 2017, Thursday
+
+**Today's Progress:** Kept on going for fcc hint button. Nothing worked! I'm so lost
+
+**Thoughts:** Perhaps tomorrow with a fresher look.
+
+**Link(s) to work:** soon<sup>tm</sup> open-sourced.
+
+
+### Day 47: March 03 2017, Friday
+
+**Today's Progress:** Finally understood my errors! And a basic functionaity is there!
+
+**Thoughts:** I probably started something bigger than me, I guess that's how you grow: through challenges
+
+**Link(s) to work:** soon<sup>tm</sup> open-sourced.
