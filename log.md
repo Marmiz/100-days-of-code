@@ -500,3 +500,20 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** I probably started something bigger than me, I guess that's how you grow: through challenges
 
 **Link(s) to work:** soon<sup>tm</sup> open-sourced.
+
+
+-----
+
+###### Rest day 13:  March 04 2017, Saturday
+
+**Reasons:**  Chilling on the beach.
+
+-----
+
+### Day 48: March 05 2017, Sunday
+
+**Today's Progress:** Spent two hours understanding why a test didn't pass when the output was identical.
+
+**Thoughts:** Testing is <sup>not</sup> so fun!
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
