@@ -517,3 +517,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Testing is <sup>not</sup> so fun!
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 49: March 06 2017, Monday
+
+**Today's Progress:** More test logic: this time voting.
+
+**Thoughts:** Understanding it a bit More
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
