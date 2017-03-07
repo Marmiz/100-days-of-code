@@ -523,6 +523,15 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 
 **Today's Progress:** More test logic: this time voting.
 
-**Thoughts:** Understanding it a bit More
+**Thoughts:** Understeanding it a bit More
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 50: March 07 2017, Tuesday
+
+**Today's Progress:** More test logic: moving data after vote.
+
+**Thoughts:** Kinda gettin the hang of it.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
