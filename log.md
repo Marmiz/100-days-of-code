@@ -535,3 +535,13 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Kinda gettin the hang of it.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+
+### Day 51: March 08 2017, Wednesday
+
+**Today's Progress:** More test logic: set a winner.
+
+**Thoughts:** Making sense.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
