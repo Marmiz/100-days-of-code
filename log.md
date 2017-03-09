@@ -545,3 +545,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Making sense.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 52: March 09 2017, Thursday
+
+**Today's Progress:** Setting up reducers..
+
+**Thoughts:** Left an error to fix for tomorrow.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
