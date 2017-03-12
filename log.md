@@ -554,3 +554,27 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Left an error to fix for tomorrow.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+### Day 53: March 10 2017, Friday
+
+**Today's Progress:** Worked on a PR for freeCodeCamp.
+
+**Thoughts:** It's friday, some chilling needed.
+
+**Link(s) to work:** soon<sup>tm</sup> open-sourced.
+
+### Day 54: March 11 2017, Saturday
+
+**Today's Progress:** Refactored the Voting process of my app with reducers
+
+**Thoughts:** setting state is not working :(
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+### Day 55: March 12 2017, Sunday
+
+**Today's Progress:** Setting up Redux stores and init a socket.io server.
+
+**Thoughts:** Lots of content to think of.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
