@@ -578,3 +578,20 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Lots of content to think of.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+### Day 56: March 13 2017, Monday
+
+**Today's Progress:** Fried from work. Worked and submitted a PR for freecodecamp.
+
+**Thoughts:** *404 Brain not found*.
+
+**Link(s) to work:** [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/13895)
+
+
+### Day 57: March 14 2017, Tuesday
+
+**Today's Progress:** Tired, yet managed to work a bit on Redux stores in my socket.io server.
+
+**Thoughts:** *404 Brain not found*.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
