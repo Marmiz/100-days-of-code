@@ -595,3 +595,19 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** *404 Brain not found*.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+-----
+
+###### Rest day 14:  March 15 2017, Wednesday
+
+**Reasons:**  Ari's Birthday :heart:
+
+-----
+
+### Day 58: March 16 2017, Thursday
+
+**Today's Progress:** Tired, started React front end components.
+
+**Thoughts:** *404 Brain not found*.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
