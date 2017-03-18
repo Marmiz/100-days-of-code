@@ -611,3 +611,20 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** *404 Brain not found*.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+### Day 59: March 17 2017, Friday
+
+**Today's Progress:** Worked a bit on yesterday's component.
+
+**Thoughts:** *404 Brain not found*.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 60: March 18 2017, Saturday
+
+**Today's Progress:** Tidy my previous work by creating two different components.
+
+**Thoughts:** Getting bored of following. Kinda want to do my own thing but I believe I have no energy at this time.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
