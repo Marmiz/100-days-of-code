@@ -628,3 +628,29 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Getting bored of following. Kinda want to do my own thing but I believe I have no energy at this time.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+-----
+
+###### Rest day 15:  March 19 2017, Sunday
+
+**Reasons:**  Sick!
+
+-----
+
+### Day 61: March 20 2017, Monday
+
+**Today's Progress:** Started implementing a react router.
+
+**Thoughts:** Nothing's working and don't know why.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 62: March 21 2017, Tuesday
+
+**Today's Progress:** Finally making react-router work.
+
+**Thoughts:** Had to revert to v.3
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
