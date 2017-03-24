@@ -654,3 +654,30 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Had to revert to v.3
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 63: March 22 2017, Wednesday
+
+**Today's Progress:** Implemented result routing component.
+
+**Thoughts:** *404*
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 64: March 23 2017, Thursday
+
+**Today's Progress:** More work on components and UI.
+
+**Thoughts:** *404*
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 65: March 24 2017, Friday
+
+**Today's Progress:** Start and setted up a react-redux interaction.
+
+**Thoughts:** *404*
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
