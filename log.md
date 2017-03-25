@@ -681,3 +681,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** *404*
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 67: March 25 2017, Saturday
+
+**Today's Progress:** Refactor some components functionailty with states.
+
+**Thoughts:** mmmmh, kay
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
