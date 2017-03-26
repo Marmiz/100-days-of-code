@@ -690,3 +690,13 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** mmmmh, kay
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+
+### Day 68: March 26 2017, Sunday
+
+**Today's Progress:** Added some action creators.
+
+**Thoughts:** Start making sense. Now I know what/how to improve.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
