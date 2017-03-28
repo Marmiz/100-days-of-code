@@ -710,3 +710,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Huge step ahead :)
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 70: March 28 2017, Tuesday
+
+**Today's Progress:** Redux and middleware send data from back to client!.
+
+**Thoughts:** I almost see the end of it.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
