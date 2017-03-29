@@ -719,3 +719,12 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** I almost see the end of it.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 71: March 29 2017, Wednesday
+
+**Today's Progress:** Finally the app works!
+
+**Thoughts:** It's been a ride.
+
+**Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
