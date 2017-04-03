@@ -728,3 +728,48 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** It's been a ride.
 
 **Link(s) to work:** [Voting App](https://github.com/Marmiz/voting-app)
+
+
+### Day 71: March 30 2017, Thursday
+
+**Today's Progress:** Worked on some CSS lessons on freeCodeCamp.
+
+**Thoughts:** chill.
+
+**Link(s) to work:** [freeCodeCamp](https://beta.freecodecamp.com/)
+
+
+### Day 72: March 31 2017, Friday
+
+**Today's Progress:** worked on Data structures in Javascript on freeCodeCamp
+
+**Thoughts:** Learning something new.
+
+**Link(s) to work:** [freeCodeCamp](https://beta.freecodecamp.com/)
+
+-----------------------
+
+###### Rest day 16:  April 01 2017, Saturday
+
+**Reasons:**  Time away from the computer.
+
+----------------------
+
+
+### Day 73: April 02 2017, Sunday
+
+**Today's Progress:** worked on sorting Algorithm on freeCodeCamp. Found and reported a bug.
+
+**Thoughts:** A nice recap.
+
+**Link(s) to work:** [freeCodeCamp](https://beta.freecodecamp.com/)
+
+
+
+### Day 74: April 03 2017, Monday
+
+**Today's Progress:** Started a microservice API project to improve my backend skills
+
+**Thoughts:** Everything seems easier now!
+
+**Link(s) to work:** soon*<sup>tm</sup>* on Github
