@@ -773,3 +773,48 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Everything seems easier now!
 
 **Link(s) to work:** soon*<sup>tm</sup>* on Github
+
+
+### Day 75: April 04 2017, Tuesday
+
+**Today's Progress:** Kept working on the API, added the upload functionailty.
+
+**Thoughts:** Everything seems easier now!
+
+**Link(s) to work:** [File Uploads Microservice](https://github.com/Marmiz/File-Uploads-Microservice)
+
+
+### Day 76: April 05 2017, Wednesday
+
+**Today's Progress:** Show saved file and general vue front end.
+
+**Thoughts:** 404
+
+**Link(s) to work:** [File Uploads Microservice](https://github.com/Marmiz/File-Uploads-Microservice)
+
+
+### Day 77: April 06 2017, Thursday
+
+**Today's Progress:** Added stylus for quick and fun styling.
+
+**Thoughts:** 404
+
+**Link(s) to work:** [File Uploads Microservice](https://github.com/Marmiz/File-Uploads-Microservice)
+
+
+### Day 78: April 07 2017, Friday
+
+**Today's Progress:** Some front end enhancements and deplo on Glitch.
+
+**Thoughts:** 404
+
+**Link(s) to work:** [File Uploads Microservice](https://github.com/Marmiz/File-Uploads-Microservice)
+
+
+### Day 79: April 08 2017, Saturday
+
+**Today's Progress:** Reading and learing about user autentication with MongoDB, Express and Node.
+
+**Thoughts:** Let's start something new.
+
+**Link(s) to work:** soon*<sup>tm</sup>* on Github
