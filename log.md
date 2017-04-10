@@ -818,3 +818,21 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Let's start something new.
 
 **Link(s) to work:** soon*<sup>tm</sup>* on Github
+
+
+### Day 80: April 09 2017, Sunday
+
+**Today's Progress:** Started a user autentication project.
+
+**Thoughts:** Everything's so new.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+### Day 81: April 10 2017, Monday
+
+**Today's Progress:** Worked on setting up a passport local storage.
+
+**Thoughts:** Everything's so new.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
