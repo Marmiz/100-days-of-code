@@ -836,3 +836,29 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Everything's so new.
 
 **Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+### Day 82: April 11 2017, Tuesday
+
+**Today's Progress:** Polishing passport functionality
+
+**Thoughts:** Need a front end to test.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+### Day 83: April 12 2017, Wednesday
+
+**Today's Progress:** Added webpack + React for starter
+
+**Thoughts:** Nice to do it yourself insted of a boilerplate.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+-----
+
+###### Rest day 17:  April 13 2017, Thursday
+
+**Reasons:**  Songkran
+
+-----
