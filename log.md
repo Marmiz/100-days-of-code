@@ -862,3 +862,38 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Reasons:**  Songkran
 
 -----
+
+### Day 84: April 14 2017, Friday
+
+**Today's Progress:** Started working on the front end.
+
+**Thoughts:** Let the fun begin
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+-----
+
+###### Rest day 18-19-20:  April 15 to April 17 2017, Thursday
+
+**Reasons:**  Travel Home, Easter, "Pasquetta"
+
+-----
+
+
+### Day 85: April 18 2017, Tuesday
+
+**Today's Progress:** Tryng to implement a basic routing in React
+
+**Thoughts:** Frustrating.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+### Day 86: April 19 2017, Wednesday
+
+**Today's Progress:** Routing works, and so does the sign in components
+
+**Thoughts:** Hard work pays off.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
