@@ -897,3 +897,38 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Thoughts:** Hard work pays off.
 
 **Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+### Day 87: April 20 2017, Thursday
+
+**Today's Progress:** Worked on sign-in pages.
+
+**Thoughts:** Nice and easy
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+-----
+
+###### Rest day 21:  April 21 2017, Friday
+
+**Reasons:**  Sick
+
+-----
+
+
+### Day 89: April 22 2017, Saturday
+
+**Today's Progress:** Back at deploying my murky bot.
+
+**Thoughts:** I succeeded where some months ago I failed.
+
+**Link(s) to work:** [Murky Bot](https://github.com/Marmiz/Murky-Bot)
+
+
+### Day 90: April 22 2017, Sunday
+
+**Today's Progress:** Added some extra functionality and a bit of refactoring
+
+**Thoughts:** It's a truly fun project.
+
+**Link(s) to work:** [Murky Bot](https://github.com/Marmiz/Murky-Bot)
