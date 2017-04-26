@@ -925,10 +925,36 @@ We decided to have a drink with the coworkers. Went home pretty late and chilled
 **Link(s) to work:** [Murky Bot](https://github.com/Marmiz/Murky-Bot)
 
 
-### Day 90: April 22 2017, Sunday
+### Day 90: April 23 2017, Sunday
 
 **Today's Progress:** Added some extra functionality and a bit of refactoring
 
 **Thoughts:** It's a truly fun project.
 
 **Link(s) to work:** [Murky Bot](https://github.com/Marmiz/Murky-Bot)
+
+
+### Day 91: April 24 2017, Monday
+
+**Today's Progress:** Back working on log in and authentication
+
+**Thoughts:** It's hard.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
+
+
+-----
+
+###### Rest day 22:  April 25 2017, Tuesday
+
+**Reasons:**  Holiday
+
+-----
+
+### Day 92: April 26 2017, Wednesday
+
+**Today's Progress:** Huge steps forward on passport and general server stuff
+
+**Thoughts:** It's hard.
+
+**Link(s) to work:** [Login User](https://github.com/Marmiz/login-user)
